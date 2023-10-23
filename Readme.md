@@ -20,5 +20,5 @@ Mientras que para el analisis de muertes por tipo de actividad realizada, vemos 
 
 ## Graficos para demostrar las conclusiones
 
-![Alt text](image.png) 
-![Alt text](image-2.png)
+![Alt text](img/image.png) 
+![Alt text](img/image-2.png)
