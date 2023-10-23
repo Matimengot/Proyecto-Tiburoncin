@@ -18,4 +18,7 @@ Analizando las tablas y graficos del dataframe, se puede ver claramente la propo
 
 Mientras que para el analisis de muertes por tipo de actividad realizada, vemos la mayoria de las muertes ocurren en el ambito del deporte acuatico.
 
+## Graficos para demostrar las conclusiones
 
+![Alt text](image.png) 
+![Alt text](image-2.png)
